@@ -1,0 +1,4 @@
+JavaScriptPractice
+==================
+
+Practicing Javascript Code
